@@ -44,8 +44,6 @@ Live Link -[ https://aramantos.github.io/TestProject/](https://aramantos.github.
 *   Technologies Used
 *   Resources
 *   Project barriers and the solutions
-*   Code validity
-*   Version Control
 *   Deployment
 *   Credits
 *   Acknowledgments
@@ -53,9 +51,13 @@ Live Link -[ https://aramantos.github.io/TestProject/](https://aramantos.github.
 
 **Overview**
 
+** **
+
 [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html) was the worlds first website and among the worlds least visited. The idea behind this webpage is to show how far web design has come since its creation and to pay homage to those who started it all.
 
 **UX**
+
+** **
 
 For a product we use everyday I find there is a remarkable lack of knowledge about the history and foundation of how the world wide web started. This webpage is a stepping stone into not only educating people on its history but highlighting the people who created it.
 
@@ -65,15 +67,11 @@ The UX is simple and user-friendly to provide an easy navigation through all pag
 
 **Project Goals:**
 
-
-
 *   Highlighting the progression of web design and internet applications since the first websites deployment.
 *   Showcasing the people behind the first website.
 *   Providing a brief history on how it all came to be.
 
 **Customer Goals:**
-
-
 
 *   Providing a more pleasing and easier to navigate site.
 *   The original site had quite a lot of information overload, one of the main focuses was to condense the text into a more readable layout
@@ -81,8 +79,6 @@ The UX is simple and user-friendly to provide an easy navigation through all pag
 *   
 
 **2. Scope**
-
-
 
 *   Creating a fluid layout for ease of use.
 *   Implementing and fine tuning my own skills.
@@ -93,8 +89,6 @@ I designed this page to create a more up to date and eye catching webpage based 
 
 **4. Skeleton**
 
-
-
 *   Wireframes: See page 4
 *   Fixed navigation bar -  5 page links & brand either side
 *   Home, People, History, FAQ and Original
@@ -102,7 +96,7 @@ I designed this page to create a more up to date and eye catching webpage based 
 
 **5. Surface**
 
-**Images **
+**Images**
 
 Core of the webpage is the global connectivity image in the background.
 
@@ -111,8 +105,6 @@ Core of the webpage is the global connectivity image in the background.
 The background picture is the basis for the overall colour scheme. 
 
 **Typography**
-
-
 
 *   "Anton" font (san serif as backup) for header and footer
 *   "Titillium" font (san serif as backup) for all section content.
@@ -133,7 +125,7 @@ The image selection has been carefully considered to best showcase each reserve.
 
 “When was the internet developed and how did it come to be?”
 
-**<span style="text-decoration:underline;">Wireframes</span>**
+**Wireframes**
 
 ** **
 
@@ -148,9 +140,9 @@ The image selection has been carefully considered to best showcase each reserve.
 
 **Features**
 
+** **
+
 **Existing Features**
-
-
 
 *   Designed with HTML5, CSS3 and Bootstrap.
 *   3 separate html pages.
@@ -159,18 +151,19 @@ The image selection has been carefully considered to best showcase each reserve.
 
 **Features Left to Implement when skills develop**
 
-
-
 *   Add more pages so that all information from the original site will be displayed.
 *   Adding more animations and transitions for a more visually pleasing site.
+*   There is alot of unused viusal real-estate on bigger screen, I would like to add more js connectivity and network visuals at a later date.
 
-**Testing (more detailed examples)**
+**Testing**
+
+** **
 
 Checked compatibility in Safari, Chrome, Firefox
 
 Give examples of tested devices on tools and real life
 
-**Screen testing Bugs**
+**Screen Testing**
 
 Checked compatibility in Safari, Chrome, Firefox 
 
@@ -186,8 +179,6 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
 **Header**
 
-
-
 *   Home, People, History all forward to correct pages.
 *   FAQ & Original open a new tab to correct page
 *   Brand icons forward to home page.
@@ -195,16 +186,14 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
 **Footer**
 
-
-
 *   Globe icon opens new tab to original webpage
 *   Social links open new tab to designated social media site
 
 **Bugs**
 
+** **
+
 **Found**
-
-
 
 *   Navbar spacing issue with blocked anchors
 *   Console error that intermittently appears 
@@ -213,16 +202,12 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
 **Resolved**
 
-
-
 *   Footer columns \
 Added a &lt;br> on small screens.
 *   People images \
 Adding “object-fit: fill;” to the images allowed pictures to appear less distorted.
 
 **Unresolved**
-
-
 
 *   Navbar spacing issue \
 Swapping the “d-none d-md-block” removed the spacing but stopped the other list-items/anchors from appearing in line.
@@ -231,9 +216,9 @@ Refreshing the page removes the console error but will reappear eventually, erro
 
 **Technologies Used**
 
-**2. Languages**
+** **
 
-
+**1. Languages**
 
 *   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 *   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
@@ -241,15 +226,11 @@ Refreshing the page removes the console error but will reappear eventually, erro
 
 **2. Integrations**
 
-
-
 *   [ Bootstrap](https://getbootstrap.com/) - by linking via[ BootstrapCDN](https://www.bootstrapcdn.com/) to HTML Doc.
 *    [FontAwesome](https://fontawesome.com/) Icons for Social Media links in Footer.
 *    [Google Fonts](https://fonts.google.com/) - Overall Typography import.
 
 **3. Workspace, version control and Repository storage**
-
-
 
 *   [GitPod](https://github.com/mkuti/corklagos-venture/blob/master/gitpod.io)  - 	Main workspace IDE(Integrated Development Environment)
 *   [Git](https://git-scm.com/)  	 -	Distributed Version Control tool to store 							versions of files and track changes.
@@ -257,7 +238,7 @@ Refreshing the page removes the console error but will reappear eventually, erro
 
 **Resources**
 
-
+** **
 
 *   [Code Institute Course Content](https://courses.codeinstitute.net/)
 *   Code Institute **SLACK Community**
@@ -272,23 +253,21 @@ Refreshing the page removes the console error but will reappear eventually, erro
 
 **Project barriers and solutions**
 
-
+** **
 
 *   Initially the transition from following an instructional video to creating your own code was challenging but eventually that knowledge came to the forefront rather than having to refer back.
 *   I started this project with a desktop first approach and as the project went on I certainly realised the benefits of a mobile first approach.
 
 **Deployment**
 
+** **
+
 **GitHub**
-
-
 
 *   Under 'Source' drop-down, the 'Master branch' was selected.
 *   Once selected, this publishes the project to GitHub Pages and displays the site url.
 
 **Local**
-
-
 
 *   You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
 *   The Clone option provides a url, which you can use on your desktop IDE.
@@ -297,17 +276,15 @@ Refreshing the page removes the console error but will reappear eventually, erro
 
 **Credits**
 
+** **
+
 **Media**
-
-
 
 *   Site background image from[ educationworld.in](http://educationworld.in)
 *   People Images from various sites
 *   Brand logo from[ favpng.com](http://favpng.com)
 
 **Content**
-
-
 
 *   All text on history has been lifted from the original site.
 
@@ -317,17 +294,15 @@ Refreshing the page removes the console error but will reappear eventually, erro
 
 I have taken and modified snippets from the various projects I have completed by following along with the Code Institute course.
 
-
-
 *   Love Running
 *   Whiskey Drop
 *   Resume Project
 
 **Acknowledgments**
 
+** **
+
 I would like to thank
-
-
 
 *   **Rohit Sharma **- My mentor for his guidance throughout the whole process
 *   **Jim Lynx **- for his continued support and guidance.
@@ -337,6 +312,8 @@ I would like to thank
 *   **#In-It-Together** and **#Study-Group** channels have been an amazing resource and all round support group.
 
 **Support**
+
+** **
 
 If you require any help or assistance you may contact me on 
 
