@@ -1,17 +1,50 @@
+<!-- Copy and paste the converted output. -->
+
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 3.383 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β29
+* Thu Sep 24 2020 10:21:53 GMT-0700 (PDT)
+* Source doc: World Wide Web Project
+* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
+
+----->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 4.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
 **<span style="text-decoration:underline;">World Wide Web Project</span>**
 
 Live Link -[ https://aramantos.github.io/TestProject/](https://aramantos.github.io/TestProject/)
 
-**Overview**
-
-[http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html) was the worlds first website and among the worlds least visited. The idea behind this webpage is to show how far web design has come since its creation and to pay homage to those who started it all.
 
 
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](assets/images/responsive.png "image_tooltip")
+![alt_text](images/responsive.png "image_tooltip")
 
 
 **Table of Contents**
@@ -33,9 +66,13 @@ Live Link -[ https://aramantos.github.io/TestProject/](https://aramantos.github.
 *   Acknowledgments
 *   Support
 
+**Overview**
+
+[http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html) was the worlds first website and among the worlds least visited. The idea behind this webpage is to show how far web design has come since its creation and to pay homage to those who started it all.
+
 **UX**
 
-For a product we use everyday I find there is a remarkable lack of knowledge about the history and foundation of how the world wide web started. This webpage is a stepping stone into not only educating people on its history but highlighting the people who created.
+For a product we use everyday I find there is a remarkable lack of knowledge about the history and foundation of how the world wide web started. This webpage is a stepping stone into not only educating people on its history but highlighting the people who created it.
 
 **1. Strategy**
 
@@ -92,7 +129,7 @@ The background picture is the basis for the overall colour scheme.
 
 
 
-*   "Anton" font (san serif as backup) for header and foster
+*   "Anton" font (san serif as backup) for header and footer
 *   "Titillium" font (san serif as backup) for all section content.
 
 **Images**
@@ -118,7 +155,7 @@ The image selection has been carefully considered to best showcase each reserve.
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](assets/images/home.png "image_tooltip")
+![alt_text](images/home.png "image_tooltip")
 
 
 
@@ -139,7 +176,7 @@ The image selection has been carefully considered to best showcase each reserve.
 
 **Features**
 
-**Existing Features (more details about all aspects eg header, footer, hist**
+**Existing Features**
 
 
 
@@ -207,7 +244,7 @@ CSS -[ W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
 
 *   Footer columns \
-Added a "<!--<br>-->" on small screens.
+Added a &lt;br> on small screens.
 *   People images \
 Adding “object-fit: fill;” to the images allowed pictures to appear less distorted.
 
@@ -226,71 +263,25 @@ Refreshing the page removes the console error but will reappear eventually, erro
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
- [ 	HTML5](https://en.wikipedia.org/wiki/HTML5)
-
- [ ](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-[		CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+*   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+*   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+*   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)<span style="text-decoration:underline;"> </span>
 
 **2. Integrations**
 
-[ ](https://getbootstrap.com/)
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image7.png "image_tooltip")
-[Bootstrap](https://getbootstrap.com/) - by linking via[ BootstrapCDN](https://www.bootstrapcdn.com/) to HTML Doc.
-
- 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
-[ FontAwesome](https://fontawesome.com/) Icons for Social Media links in Footer.
-
- 
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
-[ Google Fonts](https://fonts.google.com/) - Overall Typography import.
+*   [ Bootstrap](https://getbootstrap.com/) - by linking via[ BootstrapCDN](https://www.bootstrapcdn.com/) to HTML Doc.
+*    [FontAwesome](https://fontawesome.com/) Icons for Social Media links in Footer.
+*    [Google Fonts](https://fonts.google.com/) - Overall Typography import.
 
 **3. Workspace, version control and Repository storage**
 
 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.png "image_tooltip")
-  - [ GitPod](https://github.com/mkuti/corklagos-venture/blob/master/gitpod.io)  - 	Main workspace IDE(Integrated Development Environment)
-
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
-  -	[Git](https://git-scm.com/)  	 -	Distributed Version Control tool to store 								versions of files and track changes.
-
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.png "image_tooltip")
-  - 	[GitHub](https://github.com/) - 	A cloud-based hosting service to manage my 							**Git** repositories.
+*   [GitPod](https://github.com/mkuti/corklagos-venture/blob/master/gitpod.io)  - 	Main workspace IDE(Integrated Development Environment)
+*   [Git](https://git-scm.com/)  	 -	Distributed Version Control tool to store 							versions of files and track changes.
+*   [GitHub](https://github.com/) - 	A cloud-based hosting service to manage my 						**Git** repositories.
 
 **Resources**
 
@@ -311,7 +302,7 @@ Refreshing the page removes the console error but will reappear eventually, erro
 
 
 
-*   Initially the transition from following an instructional video to creating you own code was challenging but eventually that knowledge come to the fore front rather than having to refer back.
+*   Initially the transition from following an instructional video to creating your own code was challenging but eventually that knowledge came to the forefront rather than having to refer back.
 *   I started this project with a desktop first approach and as the project went on I certainly realised the benefits of a mobile first approach.
 
 **Deployment**
@@ -352,7 +343,7 @@ Refreshing the page removes the console error but will reappear eventually, erro
 
 **Code Snippets**
 
-I have taken snippets from the various projects I have completed by following along with the Code Institute course material.
+I have taken and modified snippets from the various projects I have completed by following along with the Code Institute course.
 
 
 
@@ -366,9 +357,11 @@ I would like to thank
 
 
 
+*   **Rohit Sharma **- My mentor for his guidance throughout the whole process
 *   **Jim Lynx **- for his continued support and guidance.
 *   **Bim Williams **- for his knowledge and reliable feedback.
-*   **CI staff** and **Slack Community** for round the clock reliability and helpfulness..
+*   **Anthony O’Brien **- for his expertise in coding and beyond.
+*   **CI staff** and **Slack Community** for round the clock reliability and helpfulness.
 *   **#In-It-Together** and **#Study-Group** channels have been an amazing resource and all round support group.
 
 **Support**
